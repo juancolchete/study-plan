@@ -5,3 +5,5 @@
 ## Redes EVM
 ## Prompt Engeniring oter informacoes de crypto
 ## DePIX
+## Carteiras tipos e usos
+## Metamask guia inicial

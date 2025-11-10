@@ -18,3 +18,4 @@
 ### Pancake Swap
 ### Carteira do ladrao blue wallet
 ### Travamento de saque
+### Blue wallet opcao

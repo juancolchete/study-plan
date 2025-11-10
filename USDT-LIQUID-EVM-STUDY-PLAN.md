@@ -15,3 +15,4 @@
 ## Uniswap
 ## Pancake Swap
 ## Carteira do ladrao blue wallet
+## Travamento de saque

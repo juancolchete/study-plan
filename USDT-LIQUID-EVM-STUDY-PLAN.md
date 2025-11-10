@@ -14,3 +14,4 @@
 ## Raydium
 ## Uniswap
 ## Pancake Swap
+## Carteira do ladrao blue wallet

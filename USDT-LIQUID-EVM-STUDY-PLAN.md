@@ -10,3 +10,7 @@
 ## AQUA Wallet
 ## Carteiras tipos e usos
 ## Metamask guia inicial
+## Revisao de assinatura offline
+## Raydium
+## Uniswap
+## Pancake Swap

@@ -5,5 +5,7 @@
 ## Redes EVM
 ## Prompt Engeniring obter informacoes de crypto
 ## DePIX
+## Como fazer DePix para USDT
+## AQUA Wallet
 ## Carteiras tipos e usos
 ## Metamask guia inicial

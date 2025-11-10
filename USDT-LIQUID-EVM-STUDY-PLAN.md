@@ -3,7 +3,7 @@
 ## O que e a lightning network
 ## USDT quais redes tem suporte
 ## Redes EVM
-## Prompt Engeniring oter informacoes de crypto
+## Prompt Engeniring obter informacoes de crypto
 ## DePIX
 ## Carteiras tipos e usos
 ## Metamask guia inicial

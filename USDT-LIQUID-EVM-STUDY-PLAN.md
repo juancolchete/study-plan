@@ -1,22 +1,22 @@
 # Aulas
 # Formacao de um P2P
-### Arkham
 ### O que e a liquid network
 ### O que e a lightning network
+### SideShift
 ### USDT quais redes tem suporte
 ### Redes EVM
+### Arkham
+### AQUA Wallet
+### Metamask guia inicial
+### Carteiras tipos e usos
+### Blue wallet opcao
+### Carteira do ladrao blue wallet
+### Revisao de assinatura offline
 ### Prompt Engeniring obter informacoes de crypto
 ### DePIX
-### SideShift
 ### Como fazer DePix para USDT
-### AQUA Wallet
-### Carteiras tipos e usos
-### Metamask guia inicial
-### Revisao de assinatura offline
 ### Raydium
 ### Uniswap
 ### Pancake Swap
-### Carteira do ladrao blue wallet
 ### Travamento de saque
-### Blue wallet opcao
 ### Github

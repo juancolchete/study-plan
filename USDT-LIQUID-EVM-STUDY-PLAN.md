@@ -12,7 +12,6 @@
 ### Carteiras tipos e usos
 ### Blue wallet opcao
 ### Carteira do ladrao blue wallet
-### Revisao de assinatura offline
 ### Prompt Engeniring obter informacoes de crypto
 ### DePIX
 ### Como fazer DePix para USDT
@@ -20,3 +19,4 @@
 ### Uniswap
 ### Pancake Swap
 ### Travamento de saque
+### Revisao de assinatura offline
